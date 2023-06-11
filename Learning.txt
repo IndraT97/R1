@@ -1,0 +1,35 @@
+----------
+git clone [url]
+
+When you run this command, Git will retrieve all the files and commit history from the specified URL (typically a remote Git repository) and create a new directory on your local machine with the same name as the remote repository. It will then copy all the files and the entire commit history into this new local directory, allowing you to work with the code locally.
+
+----------
+C:\Users\Indra\OneDrive\Desktop\New Folder\Git prac> dir
+
+dir will show all the files in the local directory
+
+----------
+
+git branch -M main 
+
+will push your code to main branch
+
+----------
+
+git remote -v 
+
+Indicates the staging enviroment
+
+----------
+
+git branch
+
+will show your existing branch
+
+----------
+
+When you modify any file git status will show modified: Learning.txt.txt
+if you want to discard this changes the command is " git restore Learning.txt.txt "	 
+
+----------
+
