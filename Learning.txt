@@ -33,3 +33,29 @@ if you want to discard this changes the command is " git restore Learning.txt.tx
 
 ----------
 
+One of the cloning senario. 
+Already there is a repo --> you clone it with your local directory --> you update you file on local directory and push the updated files or newly create files to the same repo
+
+----------
+
+after you add the file using command "git add <file name>" if you want to unstage that file use command "git restore --staged <file name>"
+
+----------
+
+"git diff --staged"
+
+This helps us to know what is added but not yet commited 
+
+----------
+
+to create a new branch use below command
+
+git branch <branch name>
+
+----------
+
+to change the branch
+
+git checkout <branch name> 
+
+----------
