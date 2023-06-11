@@ -1,3 +1,3 @@
-HHey there! How are you.
+Hey there! How are you.
 
 Thankyou so much!!
